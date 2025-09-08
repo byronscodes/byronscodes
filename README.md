@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile!
 
-- My name is Byron Streit and I am a junior in Computer Science
+- My name is Byron Streit and I am a senior in Computer Science
 - I attend Virginia Tech and will graduate in May 2026
 
 ## Skills
