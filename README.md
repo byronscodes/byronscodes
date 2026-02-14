@@ -6,7 +6,7 @@
 ## Skills
 
 - **Programming Languages:** Java, Python, JavaScript, HTML, CSS, C, Bash
-- **Technologies and Frameworks:**  MySQL, MongoDB, Firebase, Docker, Linux, Git, React, Flask, Spring Boot
+- **Technologies and Frameworks:**  MySQL, Firebase, Docker, Linux, Git, React
 
 ## Let's Connect!
 
