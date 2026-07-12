@@ -1,12 +1,12 @@
 # Welcome to my GitHub Profile!
 
-- My name is Byron Streit and I am a senior in Computer Science
-- I attend Virginia Tech and will graduate in May 2026
+- My name is Byron Streit and I recently graduated from Virginia Tech in Computer Science in 2026!
 
 ## Skills
 
-- **Programming Languages:** Java, Python, JavaScript, HTML, CSS, C, Bash
-- **Technologies and Frameworks:**  MySQL, Firebase, Docker, Linux, Git, React
+- **Programming Languages:** TypeScript, JavaScript, Java, Python, HTML/CSS, C, SQL, Bash
+- **Frameworks/Libraries:** Node.js, React, Vue.js, Nuxt, AdonisJS, JUnit, Pytest, MUI
+- **Tools:** MySQL, PostgreSQL, MongoDB, Firebase, Azure DevOps, GitHub Actions, Git, Postman, Docker, Kubernetes
 
 ## Let's Connect!
 
